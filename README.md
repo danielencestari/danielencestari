@@ -1,6 +1,6 @@
 ### Olá! Sou a <a href='https://danielencestari.github.io/'>Danielen Cestari Nunes.
 #### Atualmente e estou estudando para ser desenvolvedora 👩🏻‍💻 
-#### Bacharel em Direito pela Universidade do Estado do Amazonas, Graduanda em Ciência da Informação Pela Universidade Federal de Santa CAtarina - UFSC e Estudante de Desenvolvimento Web na Trybe. 
+#### Bacharel em Direito pela Universidade do Estado do Amazonas, Graduanda em Ciência da Informação Pela Universidade Federal de Santa Catarina - UFSC e Estudante de Desenvolvimento Web na Trybe. 
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielencestari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielencestari&layout=demo&langs_count=7&theme=midnight-purple"/>
