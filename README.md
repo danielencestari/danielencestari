@@ -10,8 +10,13 @@
   <img align="center" alt="Dani-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dani-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dani-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
-  <img align="center" alt="Girl-Power"  height="50" width="50" src="https://c.tenor.com/i4n8xW9zKFAAAAAM/girl-pwr-girl-power.gif">
+  <img align="center" alt="Dani-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img aling="center" alt="React"  height="50" width="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img aling="center" alt="Redux"  height="50" width="50" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+   <img aling="center" alt="React Router"  height="50" width="50" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+   <img aling="center" alt="Visual Code"  height="50" width="50" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+   <img align="center" alt="Girl-Power"  height="50" width="50" src="https://c.tenor.com/i4n8xW9zKFAAAAAM/girl-pwr-girl-power.gif">
+   
 </div>
    
   ##  
