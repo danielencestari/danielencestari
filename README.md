@@ -1,6 +1,6 @@
 ### Olá! Sou a <a href='https://danielencestari.github.io/'>Danielen Cestari Nunes.
-#### Atualmente e estou estudando para ser desenvolvedora 👩🏻‍💻 
-#### Bacharel em Direito pela Universidade do Estado do Amazonas, Graduanda em Ciência da Informação Pela Universidade Federal de Santa Catarina - UFSC e Estudante de Desenvolvimento Web na Trybe. 
+#### Atualmente trabalho como Software Developer no Mercado Pago/ Mercado Livre.
+#### Bacharel em Direito pela Universidade do Estado do Amazonas, Graduanda (não concluído) em Ciência da Informação Pela Universidade Federal de Santa Catarina - UFSC, Desenvolvedora Web pela Trybe. 
    
 <div style="display: inline_block"> <br>
    <h3> Contato </h3>
@@ -25,6 +25,8 @@
     <h3> Desenvolvimento Back-End </h3>
   <img aling="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img aling="center" alt="SQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img aling="center" alt="TypeScript"  
+     
 </div>
    
 <div style="display: inline_block"> <br>
