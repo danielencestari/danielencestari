@@ -1,6 +1,6 @@
 ### Olá! Sou a <a href='https://danielencestari.github.io/'>Danielen Cestari Nunes.
-#### Atualmente trabalho como Software Developer no Mercado Pago/ Mercado Livre.
-#### Bacharel em Direito pela Universidade do Estado do Amazonas, Graduanda (não concluído) em Ciência da Informação Pela Universidade Federal de Santa Catarina - UFSC, Desenvolvedora Web pela Trybe. 
+#### Atualmente trabalho como Software Developer no Mercado Pago (MELI).
+#### Bacharel em Direito pela Universidade do Estado do Amazonas, Desenvolvedora Web pela Trybe, Cursando Pós em Golang pela Full Cycle.
    
 <div style="display: inline_block"> <br>
    <h3> Contato </h3>
